@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: credit-cards
+  description: Awesome CC Team
+spec:
+  type: team 
+  children: []
